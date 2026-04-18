@@ -1,0 +1,13 @@
+# Environment
+.env
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Chroma vector store
+chroma_langchain_db/
+
+# PDF files
+rag_files/
